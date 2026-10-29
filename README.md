@@ -1,7 +1,1 @@
-<!-- 󠁡󠁤󠁭󠁩󠁮󠀼󠀡󠀭󠀭󠀭󠀭󠀾 -->
-<sub>
-  <i> &nbsp; · &nbsp;<a href="https://bankosegger.me"> check out</a></i>
-  <i> &nbsp; · &nbsp;<a href="https://github.com/bankosegger/print-my-profile-pic"> Print </a></i>
-</sub>
-
-
+[bankosegger.me](https://bankosegger.me) - [contact@bankosegger.me](mailto:contact@bankosegger.me) - [X / Twitter](https://x.com/omniaeuismodest) - [Send a note to my printer](https://printer.bankosegger.me/s/VEyZEK_m6Mgz2SVj393JKvaG) - [Print your profile pic](https://github.com/bankosegger/print-my-profile-pic)
